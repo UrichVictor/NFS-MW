@@ -1,0 +1,44 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.NFSMW{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 40px;
+    box-shadow: 0 0 40px #ffffff;
+
+}
+
+h1{
+    font-family: 'MW';
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+}
+
+body{
+    background-image: url("yx01x30xvvi91.png");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+@font-face {
+    font-family: MW;
+    src: url(most-wasted/Mostwasted.ttf);
+}
+
+h2{
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+}
+
+#Victor{
+    width: 500px;
+    height: 250px;
+}
+
+#Izzy{
+    width: 1000px;
+    height: 500px;
+}
