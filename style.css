@@ -12,8 +12,9 @@
     box-shadow: 0 0 40px #ffffff;
 }
 
-h1{
+h3{
     font-family: 'MW';
+    font-size: 70px;
     text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
 }
 
@@ -65,6 +66,6 @@ a:hover{
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 1000px;
+    top: 2000px;
     width: 100vw;
 }
