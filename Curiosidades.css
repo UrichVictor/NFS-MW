@@ -1,0 +1,29 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.NFSMW{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    color: #ffffff;
+    font-size: 30px;
+    margin: 40px;
+    box-shadow: 0 0 40px #ffffff;
+    text-align: center;
+}
+
+h1{
+    font-family: 'MW';
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+}
+
+body{
+    background-image: url("NFSMW.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+@font-face {
+    font-family: MW;
+    src: url(most-wasted/Mostwasted.ttf);
+}

@@ -18,6 +18,13 @@ h3{
     text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
 }
 
+h4{
+    font-family: 'MW';
+    color: #ffffff;
+    font-size: 30px;
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+}
+
 body{
     background-image: url("NeedforSpeedMW.jpg");
     background-size: 100%;
